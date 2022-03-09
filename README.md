@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Vicky
-- 👀 I’m interested in 
-- - 🌱 I’m currently learning backend developement
-
+- 👀 I am currently learning node.js
+- 💥 
 
 <!---
 Vickykr369/Vickykr369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

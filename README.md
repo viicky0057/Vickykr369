@@ -2,5 +2,5 @@
 - 👀 I am currently learning node.js
 - 💥 
 
-<a href="https://www.instagram.com/__vicky_36" >   <img src='https://www.freepik.com/vectors/insta-logo' width="50">
+<a href="https://www.instagram.com/__vicky_36" > <button style="background-color:green;width:60px;height:40px;border:2px solid green;">Instagram</button>
 </a>

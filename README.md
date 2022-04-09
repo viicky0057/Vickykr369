@@ -2,5 +2,5 @@
 - 👀 I am currently learning node.js
 - 💥 
 
-<a href="https://www.instagram.com/__vicky_36" >INSTAGRAM 
+<a href="https://www.instagram.com/iamvicky_2005" >INSTAGRAM 
 </a>
